@@ -34,7 +34,7 @@ https://gitlab.com/myteam/myproject/-/blob/main/src/utils/helper.ts#L45-52
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/cursor-extensions.git
+   git clone https://github.com/juancaicedo/gitlab-link-generator.git
    cd cursor-extensions
    ```
 
